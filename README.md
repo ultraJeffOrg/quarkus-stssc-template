@@ -1,3 +1,7 @@
-# Software Templates
+# Quarkus Web Template
 
-Collection of Software Templates / Golden Path for Backstage.
+This repository contains the Backstage Template used to create the Kubernetes resources needed to build/deploy a simple quarkus application.
+
+## Repository Breakdown
+
+TBD
